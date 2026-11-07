@@ -2,6 +2,7 @@
 
 ## Informasi Peserta
 - **Nama Lengkap:** Raihan Suryana Putra
+-  **Kelompok:** Kelompok 15-The Sims
 - **Program Studi:** D4 Teknik Multimedia dan Jaringan
 - **Instansi:** Politeknik Negeri Jakarta
 
